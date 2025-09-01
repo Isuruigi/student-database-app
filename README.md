@@ -164,6 +164,6 @@ CREATE TABLE students (
 
 ---
 **Student:** I.G.Isuru Chathuranga
-**Student ID:** 2022s19630/s16847  
-**Submission Date:** 02nd of September 2025  
+**Student ID:** 2022s19630  
+**Submission Date:** 01st of September 2025  
 **Assignment:** Individual Java Database Project
